@@ -1,2 +1,2 @@
-# ToggleCalculator
+# ToggleCalendar
 Simple Toggleable Calendar
